@@ -9,3 +9,9 @@ h1 {
 .pics {
     text-align: center;
 }
+
+html {
+    background-color: rgb(66,66,66);
+    color: whitesmoke;
+}
+
