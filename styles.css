@@ -1,7 +1,7 @@
 /* Align heading at center and make it bold and cursive */
 h1 {
     font-family: Georgia, "Times New Roman";
-    font-size: 50px;
+    font-size: 75px;
     text-align: center;
 }
 
@@ -15,3 +15,8 @@ html {
     color: whitesmoke;
 }
 
+#food-list {
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    color: slateblue;
+}
