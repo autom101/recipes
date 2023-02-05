@@ -3,20 +3,35 @@ h1 {
     font-family: Georgia, "Times New Roman";
     font-size: 75px;
     text-align: center;
+    font-weight: 1000;
+    color: thistle
 }
 
 /* Aligning images */
 .pics {
     text-align: center;
+    color: white;
+    font-size: 14px;
+    height: 500px;
+    width: auto;
 }
 
+/* Affects every page's background and text color */
 html {
     background-color: rgb(66,66,66);
     color: whitesmoke;
 }
 
-#food-list {
+/* Don't know enough to make it less ugly... yet */
+#food-list, h2 {
     font-size: 30px;
-    font-family: Arial, sans-serif;
+    font-family: "Times New Roman", Arial, sans-serif;
     color: slateblue;
+    font weight: bold;
+}
+
+body {
+    font-size: 20px;
+    color: rgb(179, 238, 230);
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
